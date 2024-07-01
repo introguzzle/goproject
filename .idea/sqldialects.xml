@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/eb2ef4f2-5918-47e9-a4be-826b8bed4874/console.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/src/persistence/migration/migration.go" dialect="PostgreSQL" />
+  </component>
+</project>
